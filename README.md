@@ -10,7 +10,7 @@ Hi I'm Ragannagari Venkata Siva.<br>A Final-year Computer Science Student, A pas
 ![](https://nirzak-streak-stats.vercel.app/?user=RagannagariSiva&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RagannagariSiva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br>
-## 🌐 My Portfolio  
+##  Portfolio  
 🔗 [rockstar1611.github.io/Ragannagari-Shiva_Portfolio](https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/)
 )
 <br> <hr>
