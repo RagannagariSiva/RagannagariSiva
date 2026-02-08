@@ -10,16 +10,11 @@ Hi I'm Ragannagari Venkata Siva.<br>A Final-year Computer Science Student, A pas
 ![](https://nirzak-streak-stats.vercel.app/?user=RagannagariSiva&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RagannagariSiva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br>
-##  Portfolio  
-🔗 [Visite My PortFolio Ragannagari Venkata Siva](https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/)
-<br> <hr>
+
 ## Portfolio  
-🔗 <a href="https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/" target="_blank">
-  Visite My PortFolio Ragannagari Venkata Siva
-</a>
 <br> <hr>
+🔗 <h2> Click The image to See PortFoilo</p>
 <a href="https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/" target="_blank">
   <img src="Resume.png" alt="resume">
 </a>
-
- 
+<hr>
