@@ -13,5 +13,13 @@ Hi I'm Ragannagari Venkata Siva.<br>A Final-year Computer Science Student, A pas
 ##  Portfolio  
 🔗 [Visite My PortFolio Ragannagari Venkata Siva](https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/)
 <br> <hr>
-<img src="Resume.png"alt="resume">
+## Portfolio  
+🔗 <a href="https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/" target="_blank">
+  Visite My PortFolio Ragannagari Venkata Siva
+</a>
+<br> <hr>
+<a href="https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/" target="_blank">
+  <img src="Resume.png" alt="resume">
+</a>
+
  
